@@ -1,0 +1,35 @@
+_repo: Old-English-PoemsTranslated-into-the-Original-Meter-Together-with-Short-Selections-from-Old-E__31172
+_version: 0.1.0
+contributor:
+  translators:
+  - agent_name: Thompson, Stith
+    birthdate: 1885
+    deathdate: 1976
+    gutenberg_agent_id: '42176'
+    url: http://www.gutenberg.org/2009/agents/42176
+  - agent_name: Newton, Cosette Faust
+    alias: Faust, Cosette
+    birthdate: 1889
+    gutenberg_agent_id: '34857'
+    url: http://www.gutenberg.org/2009/agents/34857
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2010-02-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31172'
+  lccn: '18016730'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry -- Old English, ca. 450-1100 -- Modernized versions'
+- !lcc 'PR'
+title: 'Old English Poems
+
+  Translated into the Original Meter Together with Short Selections from Old English
+  Prose'
+url: http://www.gutenberg.org/ebooks/31172
