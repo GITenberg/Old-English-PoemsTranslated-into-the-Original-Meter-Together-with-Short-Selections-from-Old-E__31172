@@ -16,6 +16,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31172#Old-English-PoemsTranslated-into-the-Original-Meter-Together-with-Short-Selections-from-Old-E_
 gutenberg_issued: '2010-02-03'
 gutenberg_type: Text
 identifiers:
